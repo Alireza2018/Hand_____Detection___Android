@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Template Matching</string>
+    <string name="min_treshold"></string>
+    <string name="max_treshold">Max threshold</string>
+</resources>
